@@ -1,12 +1,7 @@
 🏠 https://www.iamkyun.com
 
-✅ Java
-
-✅ JavaScript/TypeScript
-
-✅ Go
-
-✅ Kotlin
-
-✅ C++
-
+- ✅ Java
+- ✅ JavaScript/TypeScript
+- ✅ Go 
+- ✅ Kotlin
+- ✅ C++
