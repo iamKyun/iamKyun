@@ -1,7 +1,7 @@
-🏠 https://www.iamkyun.com  
-🧡 Open Source  
-✅ Java  
-✅ JavaScript/TypeScript  
-✅ Go  
-✅ Kotlin  
-✅ C++  
+- 🏠 https://www.iamkyun.com  
+- 🧡 Open Source  
+- ✅ Java
+- ✅ Go
+- ✅ JavaScript/TypeScript
+- ✅ Kotlin
+- ✅ C++
